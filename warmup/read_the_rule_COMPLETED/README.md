@@ -1,0 +1,1 @@
+read source code of the rules page

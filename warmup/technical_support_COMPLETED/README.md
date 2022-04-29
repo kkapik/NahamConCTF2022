@@ -1,0 +1,1 @@
+go to discord channel #ctf-help found flag in description 

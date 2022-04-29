@@ -1,3 +1,7 @@
+# Wizard
+
+Error at the last question: The plain text was asked not the hex.
+
 ```bash
 ------------------------------------------\
 | Why hello passerby. I see you wish to    |
@@ -61,4 +65,10 @@ hex (Big-Endian) = It's good to know the difference :)
 Very well, my friend. Here is your reward for your witts: flag{c2ed35aba037cd93381b298caa2720ee}
 ```
 
-
+Sum up of the solutions:
+* Zeros & Ones
+* Oh wowww! Base 10 is cool and all but Hexxxx
+* We can represent numbers in any base we want
+* This is one big 'ol integer!
+* Bases on bases on bases on bases :)
+* It's good to know the difference :)

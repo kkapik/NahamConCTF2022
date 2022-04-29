@@ -1,1 +1,7 @@
-type ':q'
+# Exit VIM
+
+Solution:
+type:
+```bash
+:q
+```

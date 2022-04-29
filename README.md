@@ -1,5 +1,5 @@
-# NahamCon
-Notes from the NahamCon CTF
+# NahamCon CTF 2022
+Notes from the NahamCon CTF 2022
 
 ## Completed challenges
 

@@ -3,7 +3,7 @@ Notes from the NahamCon CTF
 
 ## Completed challenges
 
-* ![Exit VIM](./warmup/exit_vim_COMPLETED)
+* [Exit VIM](./warmup/exit_vim_COMPLETED)
 * ![EXtravagant](./web/extravagant_COMPLETED)
 * ![Flagcat](./warmup/flagcat_COMPLETED)
 * ![Jurassik Park](./web/jurassic_park_COMPLETED)

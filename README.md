@@ -1,6 +1,17 @@
 # NahamCon CTF 2022
 Notes from the NahamCon CTF 2022
 
+## Warmup
+### Completed challenges
+* [Exit VIM](./warmup/exit_vim_COMPLETED)
+* [Flagcat](./warmup/flagcat_COMPLETED)
+* [Prisoner](./warmup/prisoner_COMPLETED)
+* [Quirky](./warmup/quirky_COMPLETED)
+* [Read the Rules](./warmup/read_the_rule_COMPLETED)
+* [Technical Support](./warmup/technical_support_COMPLETED)
+* [Wizard](./warmup/wizard_COMPLETED/)
+### Unfinished challenges
+* [Crash override](./warmup/crash_override)
 
 ## Binary Exploitation
 ### Completed challenges
@@ -27,27 +38,9 @@ Notes from the NahamCon CTF 2022
 ### Unfinished challenges
 * [babyrev](./reverse_engineering/babyrev)
 
-## Warmup
-### Completed challenges
-* [Exit VIM](./warmup/exit_vim_COMPLETED)
-* [Flagcat](./warmup/flagcat_COMPLETED)
-* [Prisoner](./warmup/prisoner_COMPLETED)
-* [Quirky](./warmup/quirky_COMPLETED)
-* [Read the Rules](./warmup/read_the_rule_COMPLETED)
-* [Technical Support](./warmup/technical_support_COMPLETED)
-* [Wizard](./warmup/wizard_COMPLETED/)
-### Unfinished challenges
-* [Crash override](./warmup/crash_override)
-
 ## Web
 ### Completed challenges
 * [EXtravagant](./web/extravagant_COMPLETED)
 * [Jurassik Park](./web/jurassic_park_COMPLETED)
 ### Unfinished challenges
 * [Personnel](./web/personnel)
-
-
-
-
-
-

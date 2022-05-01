@@ -1,4 +1,4 @@
-# NahamCon CTF 2022
+# NahamCon CTF 2022 - 600th/4034 teams - 1095 points
 Notes from the NahamCon CTF 2022
 
 **600/4034 (1095 points)**
@@ -33,9 +33,16 @@ Notes from the NahamCon CTF 2022
 
 ## Result
 
-![Ranking](./pictures/ranking.png)
+<p align="center">
+  <img src="./pictures/ranking.png" alt="Ranking"/>
+</p>
+<p align="center">
+  <img src="./pictures/Solve_Percentages.png" alt="Solve Percentages"/>
+</p>
+<p align="center">
+  <img src="./pictures/Category_Breakdown.png" alt="Category Breakdown"/>
+</p>
+<p align="center">
+  <img src="./pictures/Score_over_Time.png" alt="Score over Time"/>
+</p>
 
-![Solve Percentages](./pictures/Solve_Percentages.png)
-![Category Breakdown](./pictures/Category_Breakdown.png)
-
-![Score over Time](./pictures/Score_over_Time)

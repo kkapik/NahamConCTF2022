@@ -170,8 +170,9 @@ To find the answer I used [dcode.fr](dcode.fr) for the first two part.
 
 For the third part dcode won't work, other online tool don't work.
 
-I tried [PollardRsaCracker](https://github.com/ZeroBone/PollardRsaCracker)
+I tried [PollardRsaCracker](https://github.com/ZeroBone/PollardRsaCracker) but got no result.
 
 Answers are:
 * 1751476325
 * 298062599825784604055397390266655425259311588881437826967301557850952291872230439875703282133697119479127924133583415243365
+* ???
